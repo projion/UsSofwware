@@ -1,0 +1,63 @@
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.deps.json
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.runtimeconfig.json
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfo.cs
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CopyComplete
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\refint\Employee.Infrastructure.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.pdb
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.genruntimeconfig.cache
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\obj\Debug\net7.0\ref\Employee.Infrastructure.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\ASP.Net\Angular\Angular API\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfo.cs
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\refint\Employee.Infrastructure.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.deps.json
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.runtimeconfig.json
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.dll
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.pdb
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CopyComplete
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.genruntimeconfig.cache
+D:\ASP.Net\Clean Architecture\employee\employee\Employee.Infrastructure\obj\Debug\net7.0\ref\Employee.Infrastructure.dll
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.deps.json
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.runtimeconfig.json
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.dll
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.dll
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.pdb
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\musfiqur\Project\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.pdb
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfo.cs
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CopyComplete
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.dll
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\refint\Employee.Infrastructure.dll
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.pdb
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.genruntimeconfig.cache
+E:\musfiqur\Project\Employee\Employee.Infrastructure\obj\Debug\net7.0\ref\Employee.Infrastructure.dll
